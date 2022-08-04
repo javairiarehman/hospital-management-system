@@ -1,2 +1,1 @@
-# web-projects
-Elearning based school management system
+#Elearning based school management system
