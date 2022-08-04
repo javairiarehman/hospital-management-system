@@ -1,0 +1,6 @@
+
+project group division
+we have done full project together in university .we completed our project in one week
+mainly work 
+hifza majeed:ER diagram,Sql(backend)
+javairia rehman:front end(php)

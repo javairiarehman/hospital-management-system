@@ -1,0 +1,9 @@
+install xamp
+First Create Database name hms.sql and import SQL fimle and run 
+make a folder in directory C:\xampp\htdocs name php_project 
+now put all php codes in C:\xampp\htdocs\php_projects includeing images folder
+start xamp/wamp from start button
+open any browser type http://localhost/php_projects/display.php
+project will start execution
+
+
